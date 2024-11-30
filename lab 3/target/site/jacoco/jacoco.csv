@@ -1,0 +1,7 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+lab3,org.example,Main,27,0,0,0,6,0,2,0,2,0
+lab3,org.example,ShapeDescriber,0,31,0,0,0,10,0,3,0,3
+lab3,org.example,Shape,0,26,0,0,0,6,0,3,0,3
+lab3,org.example,Rectangle,0,32,0,0,0,8,0,3,0,3
+lab3,org.example,Triangle,0,45,0,0,0,8,0,3,0,3
+lab3,org.example,Color,0,76,7,9,0,7,7,4,0,3
